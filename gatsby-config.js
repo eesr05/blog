@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Meu blog`,
-    position: `Peso morto`,
+    position: `Uma frase legal está aqui`,
     description: `My thoughts.`,
     author: `@vee`,
   },
@@ -13,6 +13,18 @@ module.exports = {
       options: {
         name: `images`,
         path: `${__dirname}/src/images`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `post`,
+        path: `${__dirname}/posts`,
+      },
+    },{
+      resolve: `gatsby-transformer-remark`,
+      options: {
+         plugins: [],
       },
     },
     `gatsby-transformer-sharp`,

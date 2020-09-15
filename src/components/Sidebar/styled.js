@@ -9,6 +9,6 @@ export const SidebarWrapper = styled.aside`
   height: 100vh;
   position:fixed;
   text-align:center;
-  width:20rem;
+  width:18rem;
 
 `

@@ -9,11 +9,11 @@ background: "#7AA"
 # Lorem ipsum
 
 First of all i'm dying day by day, all alone, and since like anyone is notice, but thats totally fine, i'm not gonna be here anymore soon :sad: :sparkler:
-
+<!-- 
 ```javascript
 a=3
 puts a
-```
+``` -->
 
 ## Why this is happening to me
 

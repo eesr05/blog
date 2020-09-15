@@ -1,16 +1,16 @@
 ---
-date: 2015-02-03
-title: Two things that make me alive
-description: but I'm not sure about it
-category: Misc
-background: "#7AAB13"
+date: 2016-04-03
+title: Just stay there
+description: because i'm bad influnce
+category: A
+background: "peru"
 ---
 
 # Lorem ipsum
 
 First of all i'm dying day by day, all alone, and since like anyone is notice, but thats totally fine, i'm not gonna be here anymore soon :sad: :sparkler:
-
-<!-- ```javascript
+<!-- 
+```javascript
 a=3
 puts a
 ``` -->

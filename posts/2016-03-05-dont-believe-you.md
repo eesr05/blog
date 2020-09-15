@@ -1,9 +1,9 @@
 ---
-date: 2015-02-03
-title: Two things that make me alive
-description: but I'm not sure about it
-category: Misc
-background: "#7AAB13"
+date: 2016-03-05
+title: Don't believe you
+description: when you say those things
+category: Sad
+background: "#ccc"
 ---
 
 # Lorem ipsum

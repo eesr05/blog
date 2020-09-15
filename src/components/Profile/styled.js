@@ -2,7 +2,7 @@ import styled from 'styled-components'
 import { Link } from 'gatsby'
 
 export const ProfileWrapper = styled.section`
-    color:#8899a6;
+    color:#8899a6;   
     display: flex;
     flex-direction: column;
 `

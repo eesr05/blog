@@ -10,14 +10,29 @@ background: "#ccc"
 
 First of all i'm dying day by day, all alone, and since like anyone is notice, but thats totally fine, i'm not gonna be here anymore soon :sad: :sparkler:
 
-<!-- ```javascript
-a=3
-puts a
-``` -->
+```jsx
+import React from 'react'
+import Profile from '../Profile'
+import SocialLinks from '../SocialLinks'
+import MenuLinks from '../MenuLinks'
+import * as S from './styled'
+
+const Sidebar = () => (
+  <S.SidebarWrapper>
+  <Profile />
+  <SocialLinks />
+  <MenuLinks />
+  </S.SidebarWrapper>
+)
+
+export default Sidebar
+```
 
 ## Why this is happening to me
 
-I have some clue, is because i ugly, stupyd, and idiot, but `although` i still have hope sometimes.
+![Woods](/assets/img/woods.jpg) 
+
+>I have some clue, is because i ugly, stupid, and idiot, but `although` i still have hope sometimes.
 
 I fell by the wayside like everyone else
 I hate you, I hate you, I hate you, but I was just kidding myself
